@@ -18,7 +18,7 @@ git config --global user.email "gael.bouquain@gmail.com"
 ```
 
 ## Copy previous SSH keys
-Retrieve the SSH keys from the previous installation and copy them to the new installation. (For Windows, copy the keys to `~/.ssh`)
+Retrieve the SSH keys from the previous installation and copy them to the new installation. (For Windows, copy the keys to `C:\Users\{USERNAME}\.ssh`)
 
 ## Setup GPG
 Instructions: [docs.github.com](https://docs.github.com/en/authentication/managing-commit-signature-verification/telling-git-about-your-signing-key)
@@ -36,4 +36,14 @@ gpg --list-secret-keys --keyid-format=long
 ### Configure Git to use the GPG key
 ```bash
 git config --global user.signingkey {YOUR_KEY_ID}
+git config --global commit.gpgsign true
+git config --global gpg.program "C:\Program Files (x86)\GnuPG\bin\gpg.exe"
 ```
+
+### Register the GPG key with GitHub
+Export the GPG key
+```bash
+gpg --armor --export {YOUR_KEY_ID} 
+```
+
+Add it in [GitHub settings](https://github.com/settings/keys)

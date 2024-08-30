@@ -1,0 +1,24 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Control Panel\Cursors]
+"AppStarting"="C:\\Windows\\Cursors\\Posy-cursor\\Posy background max 96.ani"
+"Arrow"="C:\\Windows\\Cursors\\Posy-cursor\\Posy cursor.cur"
+"crosshair"="C:\\Windows\\Cursors\\Posy-cursor\\Posy precise.cur"
+"precisionhair"="C:\\Windows\\Cursors\\Posy-cursor\\Posy precise.cur"
+"Hand"="C:\\Windows\\Cursors\\Posy-cursor\\Posy hand.cur"
+"Help"="C:\\Windows\\Cursors\\Posy-cursor\\Posy help.cur"
+"IBeam"="C:\\Windows\\Cursors\\Posy-cursor\\Posy beam.cur"
+"No"="C:\\Windows\\Cursors\\Posy-cursor\\Posy forbidden.cur"
+"NWPen"="C:\\Windows\\Cursors\\Posy-cursor\\Posy pen.cur"
+"SizeAll"="C:\\Windows\\Cursors\\Posy-cursor\\Posy move.cur"
+"SizeNESW"="C:\\Windows\\Cursors\\Posy-cursor\\Posy size NeSw.cur"
+"SizeNS"="C:\\Windows\\Cursors\\Posy-cursor\\Posy size NS.cur"
+"SizeNWSE"="C:\\Windows\\Cursors\\Posy-cursor\\Posy size NwSe.cur"
+"SizeWE"="C:\\Windows\\Cursors\\Posy-cursor\\Posy size EW.cur"
+"UpArrow"="C:\\Windows\\Cursors\\Posy-cursor\\Posy alt.cur"
+"Wait"="C:\\Windows\\Cursors\\Posy-cursor\\Posy wait max 96.ani"
+"Person"="C:\\Windows\\Cursors\\Posy-cursor\\Posy person.cur"
+"Pin"="C:\\Windows\\Cursors\\Posy-cursor\\Posy pin.cur"
+
+[HKEY_CURRENT_USER\Control Panel\Cursors\Schemes]
+"Posy's Cursor Improved by ripperhowls"="C:\\Windows\\Cursors\\Posy-cursor\\Posy cursor.cur,C:\\Windows\\Cursors\\Posy-cursor\\Posy help.cur,C:\\Windows\\Cursors\\Posy-cursor\\Posy background max 96.ani,C:\\Windows\\Cursors\\Posy-cursor\\Posy wait max 96.ani,C:\\Windows\\Cursors\\Posy-cursor\\Posy precise.cur,C:\\Windows\\Cursors\\Posy-cursor\\Posy beam.cur,C:\\Windows\\Cursors\\Posy-cursor\\Posy hand.cur,C:\\Windows\\Cursors\\Posy-cursor\\Posy forbidden.cur,C:\\Windows\\Cursors\\Posy-cursor\\Posy size NS.cur,C:\\Windows\\Cursors\\Posy-cursor\\Posy size EW.cur,C:\\Windows\\Cursors\\Posy-cursor\\Posy size NwSe.cur,C:\\Windows\\Cursors\\Posy-cursor\\Posy size NeSw.cur,C:\\Windows\\Cursors\\Posy-cursor\\Posy move.cur,C:\\Windows\\Cursors\\Posy-cursor\\Posy alt.cur,C:\\Windows\\Cursors\\Posy-cursor\\Posy hand.cur,C:\\Windows\\Cursors\\Posy-cursor\\Posy pin.cur,C:\\Windows\\Cursors\\Posy-cursor\\Posy person.cur"

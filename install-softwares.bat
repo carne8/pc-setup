@@ -18,3 +18,5 @@ winget install -e --id Spotify.Spotify
 winget install -e --id Discord.Discord
 winget install -e --id Microsoft.VisualStudio.2022.Community
 winget install -e --id DevToys-app.DevToys
+winget install -e --id AutoHotkey.AutoHotkey
+winget install -e --id Axosoft.GitKraken

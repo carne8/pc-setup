@@ -1,3 +1,1 @@
-zoxide init --cmd cd powershell | Out-String | Invoke-Expression
-oh-my-posh init pwsh --config ([Environment]::GetFolderPath("MyDocuments") + "/PowerShell/oh-my-posh.theme.jsonc") | Invoke-Expression
-clear
+C:/Users/gaelb_vfosm4v/Documents/PowerShell/Microsoft.PowerShell_profile.ps1

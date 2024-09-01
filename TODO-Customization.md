@@ -13,3 +13,8 @@ sudo .\install-posy-cursor.bat
 # Remap Copilot key
 Copy `copilot-remap.ahk` to `C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
 Open `copilot-remap.ahk` with AutoHotKey
+
+# Set power mode to high performance
+```batch
+powercfg /setactive 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c
+```

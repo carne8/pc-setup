@@ -6,7 +6,8 @@ winget install -e --id Spotify.Spotify
 winget install -e --id Discord.Discord
 winget install -e --id VideoLAN.VLC
 winget install --interactive AppFlowy.AppFlowy
-wiget install -e --id Google.QuickShare
+winget install --interactive -e --id Google.QuickShare
+winget install -e --id OpenWhisperSystems.Signal
 
 @REM # Utils
 winget install -e --id AltSnap.AltSnap
@@ -17,6 +18,7 @@ winget install -e --id M2Team.NanaZip
 winget install -e --id 9PFXCD722M2C # KDE.Filelight
 winget install -e --id Microsoft.PowerToys
 winget install -e --id Transmission.Transmission
+winget install -e --id Bopsoft.Listary
 
 @REM # Cmd tools
 winget install -e --id JanDeDobbeleer.OhMyPosh
@@ -43,6 +45,7 @@ winget install -e --id OpenJS.NodeJS
 
 @REM # Others
 winget install -e --id KDE.digikam
+# winget install -e --id OliverBetz.ExifTool @REM Download if DigiKam doesn't find exiftool
 winget install -e --id Nextcloud.NextcloudDesktop
 winget install -e --id BlenderFoundation.Blender
 winget install -e --id Prusa3D.PrusaSlicer
